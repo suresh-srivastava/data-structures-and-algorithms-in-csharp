@@ -10,7 +10,7 @@ This  repository is for the students of book [Data Structures and Algorithms In 
  * Prepares you for coding interviews
  * Lifetime Access
 
-### DSA Masterclass Courses on [CourseGalaxy](http://coursegalaxy.com/)
+### DSA Masterclass Course on [CourseGalaxy](http://coursegalaxy.com/)
 
 [![data-structures-algorithms-csharp](https://user-images.githubusercontent.com/96913690/200234905-67b85dfd-20c4-4f4b-afd2-e10d3568fff8.jpg)](https://coursegalaxy.usefedora.com/p/data-structures-algorithms-csharp?coupon_code=GITHUB75PER)
 [![data-structures-algorithms-python](https://user-images.githubusercontent.com/96913690/200234827-86aec10a-bfab-4371-91fc-e2be855ff1ff.jpg)](https://coursegalaxy.usefedora.com/p/data-structures-algorithms-python?coupon_code=GITHUB75PER)
