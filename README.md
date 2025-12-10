@@ -1,6 +1,8 @@
 # Data Structures and Algorithms (DSA) In C#
 
-This  repository is for the students of book [Data Structures and Algorithms In C#](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-csharp-masterclass?coupon=GITHUB50) and online courses available on CourseGalaxy. It contains the source code of all the programs used in the book and courses.
+This  repository is for the students of book [Comprehensive Data Structures and Algorithms in C#](https://www.amazon.in/dp/B0G5X17RKL) and online courses available on CourseGalaxy. It contains the source code of all the programs used in the book and courses.
+
+[![comprehensive-data-structures-algorithms-csharp](https://github.com/user-attachments/assets/af226138-dbaa-4973-907e-cf5216211fe2)](https://www.amazon.in/dp/B0G5X17RKL)
 
 ### About the DSA Masterclass Courses
  * Thoroughly detailed courses with complete working programs
