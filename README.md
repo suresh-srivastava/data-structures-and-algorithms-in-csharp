@@ -1,4 +1,4 @@
-# Data Structures and Algorithms (DSA) In C#
+# Data Structures and Algorithms (DSA) in C#
 
 This  repository is for the students of book [Comprehensive Data Structures and Algorithms in C#](https://www.amazon.in/dp/B0G5X17RKL) and online courses available on CourseGalaxy. It contains the source code of all the programs used in the book and courses.
 
